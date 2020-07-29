@@ -41,4 +41,4 @@ Spotkania odbywają się regularnie o 2 tygodnie gdzie przedstawiamy kolejne kro
 
 ### Czym jest DW POZNAN ?
 
-Jeseśmy grupą pasjonatów sztuzcnej inteligencji. W jej ramah ustalamy regularne spotkania i uzcestniczymy w ciekawych projektach. Każdy bez względu na poziom mże wziąć udział w projekcie i nauczyć się czegoś ciekawego :) 
+Jeseśmy grupą pasjonatów sztuzcnej inteligencji. W jej ramah ustalamy regularne spotkania i uzcestniczymy w ciekawych projektach. Każdy bez względu na poziom może wziąć udział w projekcie i nauczyć się czegoś ciekawego :) 
