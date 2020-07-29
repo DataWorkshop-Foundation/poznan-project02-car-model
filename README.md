@@ -2,6 +2,8 @@
 
 Witamy na stronie projektu autonomicznego samochodu :) W ramach jego będziemy się zajmować tworzeniem pojazdu atuonomicznego do naszego projektu. Głównym celem naszego projektu jest stworzenie samoochodu który będzie za pomoą aplikacji na Android/iOS znajdował miejsce parkingowe i parkował bez udzialu kierowcy przy pomocy algorytmów sztucznej inteligencji.
 
+[![Autonomiczny pojazd - Projekt #2 | DW Poznań](http://img.youtube.com/vi/KEqKid9rXoM/0.jpg)](https://youtu.be/KEqKid9rXoM?list=PLa8KbhSQZVUhFsfa2Por7p10Oo8LKoBmD)
+
 Za samochód posłuży nam samochód ELEGOO Smart Robot CAR który zostaniie rozszerzony o kamerę i modół Rasspery PI. 
 
 ![./assets/elegoo.png](./assets/model.png)
