@@ -6,6 +6,8 @@ Witamy na stronie projektu autonomicznego samochodu :) W ramach jego będziemy s
 
 Za samochód posłuży nam samochód ELEGOO Smart Robot CAR który zostaniie rozszerzony o kamerę i modół Rasspery PI. 
 
+![image-20200922202022979](assets/image-20200922202022979.png)
+
 ![./assets/elegoo.png](./assets/model.png)
 
 ### Struktura projektu
@@ -18,7 +20,7 @@ Za samochód posłuży nam samochód ELEGOO Smart Robot CAR który zostaniie roz
 * `engine` - źródła dla engine do tworzenia map parkingu. symuluowaniia parkingu.
 * `dataset` - lista danych do uczeania 
 * `mobile` - folder ze źrodłami do mobilnej aplikacji
-* `auto` - Pliki źródłowego dla rzezcywistego pojazdu
+* `auto` - Pliki źródłowego dla rzezcywistego pojazdu. Wymaga `Unreal Engine`
 * `carparking` - Pliki źródłowe do uczenia modelu samochu (Python)
 
 ### Czas Trwania i potrzebne osoby
