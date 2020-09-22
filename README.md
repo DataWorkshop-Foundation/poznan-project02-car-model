@@ -6,6 +6,10 @@ Witamy na stronie projektu autonomicznego samochodu :) W ramach jego będziemy s
 
 Za samochód posłuży nam samochód ELEGOO Smart Robot CAR który zostaniie rozszerzony o kamerę i modół Rasspery PI. 
 
+## Auto - Symulator
+
+https://github.com/DataWorkshop-Foundation/poznan-project02-car-model/releases/tag/0.1alpha
+
 ![image-20200922202022979](assets/image-20200922202022979.png)
 
 ![./assets/elegoo.png](./assets/model.png)
