@@ -8,9 +8,11 @@ Za samochód posłuży nam samochód ELEGOO Smart Robot CAR który zostaniie roz
 
 ## Auto - Symulator
 
-https://github.com/DataWorkshop-Foundation/poznan-project02-car-model/releases/tag/0.1alpha
+Symulator jest zbudowany na Unreal Engine z pluginem AirSim. Gotową aplikację na Windows można pobrać z:
 
-![image-20200922202022979](assets/image-20200922202022979.png)
+https://github.com/DataWorkshop-Foundation/poznan-project02-car-model/releases/
+
+![1601645866714](assets/1601645866714.png)
 
 ![./assets/elegoo.png](./assets/model.png)
 

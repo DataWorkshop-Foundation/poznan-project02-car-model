@@ -4,7 +4,7 @@ Pliki źródłowe dla rzeczywistego pojazd. Pierwsza wersja zawiera tylko podsta
 
 * Jeżdzenie po parkingu
 
-![image-20200922200457250](assets/image-20200922200457250.png)
+![1601645933205](assets/1601645933205.png)
 
 ## Kompilacja
 
