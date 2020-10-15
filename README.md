@@ -49,6 +49,7 @@ Spotkania odbywają się regularnie o 2 tygodnie gdzie przedstawiamy kolejne kro
 * `2020-07-09` - https://github.com/dataworkshop/dw-poznan-project/tree/master/spotkania/2020-07-09 . Przedstawienie samohodu autonomicznego.
 * `2020-07-23` - https://github.com/dataworkshop/dw-poznan-project/tree/master/spotkania/2020-07-23 - Omówienie symulatorów do uczenia maszynowego.
 * `2020-09-03` - https://github.com/dataworkshop/dw-poznan-project/tree/master/spotkania/2020-09-03_PR3_14 - Omówienie DataSetów oraz pokazanie pierwszej wersji symulatora.
+* `2020-09-03` - https://github.com/dataworkshop/dw-poznan-project/tree/master/spotkania/2020-10-08 - Omówienie modelu UNET do rozpoznawania obrazów.
 
 
 ### Czym jest DW POZNAN ?
