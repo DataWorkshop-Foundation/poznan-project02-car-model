@@ -44,7 +44,7 @@ Projekt rozpoczął się w lipcu 2020 roku i potrwa kilka miesięcy. Sam projekt
 
 ### Spotkania
 
-Spotkania odbywają się regularnie o 2 tygodnie gdzie przedstawiamy kolejne kroki w naszym projekcie. 
+Spotkania odbywają się regularnie gdzie przedstawiamy kolejne kroki w naszym projekcie. 
 
 * `2020-07-09` - https://github.com/dataworkshop/dw-poznan-project/tree/master/spotkania/2020-07-09 . Przedstawienie samohodu autonomicznego.
 * `2020-07-23` - https://github.com/dataworkshop/dw-poznan-project/tree/master/spotkania/2020-07-23 - Omówienie symulatorów do uczenia maszynowego.
